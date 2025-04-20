@@ -8,6 +8,6 @@ set of free windows optimization tools
 - virus removal tools (don't rely on just them)
 
 # disclaimer
-- none of the tools (except for a few scripts) are made by me
+- none of these tools (except for a few scripts) are made by me
 - if you're scared of a tool being infected, don't use it
 - instead if you know a tool is infected, please tell me
